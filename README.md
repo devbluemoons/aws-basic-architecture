@@ -3,10 +3,13 @@ account / access  / networking / computing / load balancer / database / storage 
 
 ## Account
 
-## IAM
+## IAM (Identity and Access Management)
+- [x] root user
+- [x] user
+- [x] group
 
 ## Networking
-- [ ] VPC
+- [ ] VPC (Virtual Private Cloud)
 - [ ] subnet
 - [ ] routing table
 - [ ] internet gateway
