@@ -13,6 +13,8 @@ account / access  / networking / computing / load balancer / database / storage 
 - [ ] subnet
 - [ ] routing table
 - [ ] internet gateway
+- [ ] NAT (Network Address Translation)
+  - [ ] NAT gateway
 - [ ] security group 
   - [ ] in-bound rule
   - [ ] out-bound rule
