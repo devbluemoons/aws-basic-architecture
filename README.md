@@ -21,5 +21,9 @@ account / access  / networking / computing / load balancer / database / storage 
 - [ ] NACL (Network Access Control List)
   - [ ] in-bound rule
   - [ ] out-bound rule
-  
+- [ ] ELB (Elastic Load Balancing)
+  - [ ] ALB (Application Load Balancer) : for web-site 
+  - [ ] NLB (Network Load Balancer) : for game, chatting
+  - [ ] CLB (Classic Load Balancer)
+
 ## Computing
