@@ -11,6 +11,8 @@ account / access  / networking / computing / load balancer / database / storage 
 ## Networking
 - [ ] VPC (Virtual Private Cloud)
 - [ ] subnet
+  - [ ] public subnet
+  - [ ] private subnet
 - [ ] routing table
 - [ ] internet gateway
 - [ ] NAT (Network Address Translation)
