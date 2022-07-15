@@ -24,6 +24,8 @@ account / access  / networking / computing / load balancer / database / storage 
   - [ ] in-bound rule
   - [ ] out-bound rule
 - [ ] ELB (Elastic Load Balancing)
+  - [ ] Load Balancer
+  - [ ] Target groups
   - [ ] ALB (Application Load Balancer) : for web-site 
   - [ ] NLB (Network Load Balancer) : for game, chatting
   - [ ] CLB (Classic Load Balancer)
