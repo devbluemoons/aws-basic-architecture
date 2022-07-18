@@ -7,6 +7,7 @@ account / access  / networking / computing / load balancer / database / storage 
 - [x] root user
 - [x] user
 - [x] group
+- [ ] role
 
 ## Networking
 - [ ] VPC (Virtual Private Cloud)
@@ -31,3 +32,15 @@ account / access  / networking / computing / load balancer / database / storage 
   - [ ] CLB (Classic Load Balancer)
 
 ## Computing
+
+## RDS
+- [ ] database engine
+- [ ] parameter group
+- [ ] option group
+- [ ] subnet group
+
+## Storage
+- S3 (Simple Storage Service)
+  - [ ] bucket
+  - [ ] role
+
