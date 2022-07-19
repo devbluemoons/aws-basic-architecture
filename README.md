@@ -47,11 +47,11 @@ account / access  / networking / computing / load balancer / database / storage 
 ## check point
 - linux nameserver
 ```shellsession
-cat /etc/resolvconf
+cat /etc/resolv.conf
 
 # there is anything
 # add Google nameserver
-sudo vi /etc/resolvconf
+sudo vi /etc/resolv.conf
 
 # Google IPv4 nameservers
 nameserver 8.8.8.8
