@@ -44,3 +44,17 @@ account / access  / networking / computing / load balancer / database / storage 
   - [ ] bucket
   - [ ] role
 
+## check point
+- linux nameserver
+```shellsession
+cat /etc/resolvconf
+
+# there is anything
+# add Google nameserver
+sudo vi /etc/resolvconf
+
+# Google IPv4 nameservers
+nameserver 8.8.8.8
+nameserver 8.8.4.4
+```
+
