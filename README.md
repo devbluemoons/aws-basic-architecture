@@ -49,7 +49,7 @@ account / access  / networking / computing / load balancer / database / storage 
 ```shellsession
 cat /etc/resolv.conf
 
-# there is anything
+# if file is empty
 # add Google nameserver
 sudo vi /etc/resolv.conf
 
