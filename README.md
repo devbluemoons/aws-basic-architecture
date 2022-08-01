@@ -32,6 +32,7 @@ account / access  / networking / computing / load balancer / database / storage 
   - [ ] CLB (Classic Load Balancer)
 
 ## Computing
+- [ ] EC2 (Elastic Compute Cloud)
 
 ## RDS
 - [ ] database engine
