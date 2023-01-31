@@ -59,3 +59,22 @@ nameserver 8.8.8.8
 nameserver 8.8.4.4
 ```
 
+## multi step connection (for `ssh tunneling`)
+```shellsession
+# config file on ~/.ssh/ directory
+
+Host bastion
+    HostName [ip address]
+    User ec2-user
+    IdentityFile ~/.ssh/keyPair.pem
+Host web01
+    HostName [ip address]
+    User ec2-user
+    IdentityFile ~/.ssh/keyPair.pem
+    ProxyCommand ssh bastion -W %h:%p
+Host web02
+    HostName [ip address]
+    User ec2-user
+    IdentityFile ~/.ssh/keyPair.pem
+    ProxyCommand ssh bastion -W %h:%p
+```
